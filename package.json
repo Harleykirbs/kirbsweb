@@ -1,0 +1,16 @@
+{
+  "name": "kirbs-ac-website",
+  "version": "1.0.0",
+  "description": "Kirbs AC FiveM Anti-Cheat Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
